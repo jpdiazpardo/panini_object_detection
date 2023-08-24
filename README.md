@@ -4,4 +4,4 @@ For this computer vision (CV) project I developed an automatic image detection s
 **NOTE:** For this project, other types of stickers included in the Qatar 2022 album such as: team crests, stadiums, team pictures and other miscellaneous stickers are out of scope. Past editions of Panini® sticker albums i.e. Russia 2018, Brazil 2014, South Africa 2010, etc. are out of scope as well.
 
 ##Image detection
-![Alt text](images/cr7_image_detection?raw=true)
+![Alt text](images/cr7_image_detection.png?raw=true)
